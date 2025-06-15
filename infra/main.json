@@ -59,14 +59,14 @@
     },
     "gptModelName": {
       "type": "string",
-      "defaultValue": "gpt-4o-mini",
+      "defaultValue": "gpt-4o",
       "metadata": {
         "description": "Name of the GPT model to deploy:"
       }
     },
     "gptModelVersion": {
       "type": "string",
-      "defaultValue": "2024-07-18",
+      "defaultValue": "2024-05-13",
       "metadata": {
         "description": "Version of the GPT model to deploy:"
       }
